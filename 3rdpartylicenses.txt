@@ -334,6 +334,8 @@ MIT
 
 @angular/material/select
 
+@angular/material/checkbox
+
 @angular/router
 MIT
 
